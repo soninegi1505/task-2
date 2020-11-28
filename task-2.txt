@@ -1,0 +1,17 @@
+/* javascript function with arguments that squares number  */
+
+function square(number)
+ { 
+return number * number; 
+}
+
+
+/* JavaScript function which returns random 6 digit numbers */
+
+(Math.floor(100000 + Math.random() * 900000));
+
+
+
+/* JavaScript function which display type and version of browser using alert */
+
+alert(navigator.userAgent);
